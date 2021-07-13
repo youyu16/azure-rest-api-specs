@@ -2141,6 +2141,10 @@
           "type": "string",
           "description": "The Slack landing page Url"
         },
+        "scopes": {
+          "type": "string",
+          "description": "The Slack permission scopes."
+        },
         "redirectAction": {
           "type": "string",
           "description": "The Slack redirect action",
